@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h1>Página inicial do projeto</h1>
+        <p>Arquivo editado</p>
 </body>
 </html>
